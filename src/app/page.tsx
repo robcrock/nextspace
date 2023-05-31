@@ -1,4 +1,3 @@
-
 export default function Home() {
   return (
     <div>
@@ -8,5 +7,5 @@ export default function Home() {
       </p>
       <p>To get started, sign up for an account</p>
     </div>
-  )
+  );
 }
